@@ -1,0 +1,14 @@
+﻿# Jupyter
+.ipynb_checkpoints
+*.ipynb.orig
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
